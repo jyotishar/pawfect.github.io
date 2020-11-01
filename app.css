@@ -1,0 +1,30 @@
+body{
+	background: url(https://lh3.googleusercontent.com/85lQx_qS_emTLb4Ek_oKSfnkyeWQhPIvlgJz2xBvuStTV3_TRU1QwUp0R_feVP5KOYx7i-lu2-29omHWKIRsJ2pXxp9FNtJ1BU-40SUQLxONaayeUQPGHfAa4d5ZQEV_xaIgeq96L_TBSJlE2lowKijGRDdEJm7kuJrixDnGoOhFMFlJKeyazqdur_Z-lQD7jDjBF2Ezs3bl7LpsXus_qvsgPPdzIDGF8yU1klXwWK56-4jNstKYyvUq-PbxbUNgyLwfQ3clAcrjovz-O-ZxLYQOyIywang1w31Fsxu3UQ01pmDHKm4gboqlXvI3sYrf-exdyceg0L-wgtM5zjAX43lhoRPYQJ-fi-yIsnGja77I-D3iwEyfC8m51ux2fobim7gAW6yLDmKNxMgPHL3s0tueNdEadJ_KqGIJlna2ILhGfRKKJAEC4AFTxYeUHqB8Fl4YjRgh34xMCBvZJjT1qcqONHLvDPco-kIg83Zbxmb57-RrnJREC3dHyKKFrp3LPdr2OUwl4-_tXBd5K3gNaMJo6Ye0iDTzv-FYeGUpARq-Kx5KmvqGhTnnex5Te-rhD1fk6rI-HPjPG4-a-zNofct5NH_JaIKOuq_jNNmUMCDws1FGCFYXVBETVB7v_9OC31XbcBqAWa4mrAfJ4grdJDVnBZz7XDhFKQXqQni2N_xBRZbqfyYPurarTBXUyw=w491-h654-no?authuser=0);
+	background-size: cover;
+	background-position: center;
+	font-family: Lato;
+	color: white;
+}
+
+html{
+	height: 120%;
+}
+
+#content{
+	text-align: center; 
+	padding-top: 25%;
+	text-shadow: 0px 4px 3px black,
+				 0px 8px 13px gray;
+}
+
+h1
+{
+	font-weight: 700;
+	font-size: 5em;
+}
+
+hr{
+	width: 650px;
+	border-top: 1px solid #f8f8f8;
+	border-bottom: 1px solid rgba(0,0,0,0.2);
+}
